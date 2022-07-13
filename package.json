@@ -1,6 +1,6 @@
 {
   "name": "unpocoxd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mensajes random",
   "main": "src/index.js",
   "scripts": {
